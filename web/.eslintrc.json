@@ -39,6 +39,7 @@
     "import/prefer-default-export": "off",
     "prettier/prettier": "error",
     "camelcase": "off",
+    "import/no-duplicates": "off",
     "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/explicit-function-return-type": [
       "error",
