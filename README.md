@@ -42,11 +42,13 @@ This project was developed using the following technologies:
 - [Multer](https://www.typescriptlang.org/docs/home)
 - [TypeORM](https://www.typescriptlang.org/docs/home)
 - [JWT-token](https://www.typescriptlang.org/docs/home)
-- [PostgreSQL]
-- [MongoDB]
-- [Redis]
-- [date-fns]
-- [Jest]
+- [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Redis](https://redis.io/)
+- [date-fns](https://date-fns.org/)
+- [Jest](https://jestjs.io/)
+- [Yup](https://github.com/jquense/yup)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
 
 ### ⚙️ Requirements:
  - Click in the button below and import the file .json on [Insomnia App](https://insomnia.rest/)
@@ -61,10 +63,10 @@ This project was developed using the following technologies:
 ### 🏁 How to run
 ```bash
 
-  # clone the repository
+  # clonar o repositório
   $ git clone https://github.com/thiagoasb/goBarber.git
 
-  # Entrar no diretório
+  # Enter in reposi
   $ cd goBarber
 
   # Instalar as dependências
@@ -88,8 +90,33 @@ This project was developed using the following technologies:
 
 ### 🚀 Technologies
 This project was developed using the following technologies:
+- [ReactJS](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/docs/home)
+- [Styled-components](https://styled-components.com/)
+- [Unform](https://github.com/Rocketseat/unform/blob/master/README.md)
 
 ### 🏁 How to run
+```bash
+
+  # clonar o repositório
+  $ git clone https://github.com/thiagoasb/goBarber.git
+
+  # Enter in reposi
+  $ cd goBarber
+
+  # Instalar as dependências
+  $ yarn install
+
+  # Iniciar o projeto
+  $ yarn start
+
+  # This application is running on port 3000 - acess <http://localhost:3000>
+
+```
+```bash
+ #Para rodar os testes
+ $ yarn test
+```
 
 ---
 
@@ -102,8 +129,33 @@ This project was developed using the following technologies:
 
 ### 🚀 Technologies
 This project was developed using the following technologies:
+- [React-Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/docs/home)
+- [Styled-components](https://styled-components.com/)
+- [Unform](https://github.com/Rocketseat/unform/blob/master/README.md)
 
 ### 🏁 How to run
+```bash
+
+  # clonar o repositório
+  $ git clone https://github.com/thiagoasb/goBarber.git
+
+  # Enter in reposi
+  $ cd goBarber
+
+  # Instalar as dependências
+  $ yarn install
+  
+  # Iniciar o projeto
+  $ yarn start
+
+  # This application is running on port 3000 - acess <http://localhost:3000>
+  # necessary to have an emulator or physical device to run the project, I used Android Studio for development
+```
+```bash
+ #Para rodar os testes
+ $ yarn test
+```
 
 ---
 ## 📝 License
