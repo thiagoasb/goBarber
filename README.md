@@ -86,7 +86,9 @@ This project was developed using the following technologies:
 
 ## 💻 Web client
 ### 🎥 Demonstration
-
+<h1 align="center">
+  <img src="https://ik.imagekit.io/thiagoaraujo/goBarber_1cSbvczzM.gif" alt="gitgif" width="400px">
+</h1>
 
 ### 🚀 Technologies
 This project was developed using the following technologies:
