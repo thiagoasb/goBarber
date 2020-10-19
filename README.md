@@ -159,3 +159,4 @@ This project was developed using the following technologies:
 
 ---
 ## 📝 License
+Este projeto esta sobe a licença MIT.
